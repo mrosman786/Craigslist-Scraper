@@ -1,6 +1,6 @@
 # Craigslist Scraper
 
-This script is used to scrape data from craigslist and can be used to gather information on a specific category of items. The user can then use the data gathered to perform analysis on the Title, Phone, Images Urls and other attributes of the items.
+This script can be used to gather information on a specific category of items from Craigslist across the entire US or a specific city. The data can be used to analyze the title, phone number, image URLs, and other attributes of the items.
 
 ## Installation
 
